@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header">30dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="defaultPadding">12dp</dimen>
+    <dimen name="defaultMargin">12dp</dimen>
+    <dimen name="defaultMarginSmall">4dp</dimen>
+
+</resources>

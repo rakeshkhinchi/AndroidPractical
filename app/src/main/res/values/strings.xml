@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Android Practical</string>
+    <string name="store_screen_name">Store list</string>
+    <string name="menu_screen_name">Menu list</string>
+
+</resources>
